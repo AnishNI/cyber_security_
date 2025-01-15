@@ -34,3 +34,5 @@ The Forage Mastercard Cybersecurity Job Simulation provides invaluable experienc
 
 Task Screenshots:
 ![Screenshot 2025-01-15 155148](https://github.com/user-attachments/assets/f5c03c71-7bc3-4747-a4ff-2089bb0be3eb)
+![Screenshot 2025-01-15 161656](https://github.com/user-attachments/assets/40dbdec4-dfc7-4a56-925d-f50551983fed)
+Phishing Emails basically consist of gammer mistake were u can get to identify easly of read it care fully as shown in above image
