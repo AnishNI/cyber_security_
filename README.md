@@ -33,3 +33,4 @@ Conclusion
 The Forage Mastercard Cybersecurity Job Simulation provides invaluable experience in dealing with phishing threats. By analyzing phishing emails, designing effective simulated phishing campaigns, and delivering targeted training, participants develop critical skills that are essential for protecting organizations from cyber threats. This virtual internship not only enhances technical knowledge but also emphasizes the importance of proactive security measures and continuous employee education in the fight against phishing attacks.
 
 Task Screenshots:
+![Screenshot 2025-01-15 155148](https://github.com/user-attachments/assets/f5c03c71-7bc3-4747-a4ff-2089bb0be3eb)
